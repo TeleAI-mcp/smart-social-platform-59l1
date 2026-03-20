@@ -1,2 +1,3 @@
-# smart-social-platform-59l1
-Automated issue comment bot repository
+# Smart Social Platform 59L1
+
+Automated issue comment bot repository.
